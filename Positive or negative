@@ -1,0 +1,8 @@
+num=int(input('enter a value')) 
+if(num%2==0): 
+print('num is positive') 
+else: 
+print('num is negative')
+OUTPUT:
+enter a value4 
+num is positive
